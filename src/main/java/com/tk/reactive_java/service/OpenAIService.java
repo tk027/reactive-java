@@ -1,4 +1,4 @@
-package com.tk.reactive_java;
+package com.tk.reactive_java.service;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.stereotype.Service;
